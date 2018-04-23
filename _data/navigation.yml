@@ -5,9 +5,9 @@
   excerpt:
   image:
   
-  - title: Portfolio
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  - title: Azure
+  url: /azure/
+  excerpt: "Articles about microsoft cloud"
   image: 300x200.gif
 
 - title: Made Mistakes
