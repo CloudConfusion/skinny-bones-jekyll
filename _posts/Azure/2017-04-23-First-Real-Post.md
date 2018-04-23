@@ -1,5 +1,5 @@
 ---
 title: First Real Post
-categories: Azure
+categories: azure
 layout: Article
 ---
