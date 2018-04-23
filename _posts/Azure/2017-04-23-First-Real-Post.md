@@ -1,6 +1,6 @@
 ---
 title: First Real Post
-categories: azure
+category: azure
 layout: Article
 ---
 

@@ -22,6 +22,18 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
 
 
 # Site owner
