@@ -1,5 +1,5 @@
 ---
-Title: First Real Post
-Categories: Azure
-Layout: Article
+title: First Real Post
+categories: Azure
+layout: Article
 ---
