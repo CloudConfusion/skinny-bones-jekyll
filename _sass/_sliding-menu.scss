@@ -60,7 +60,7 @@
   position: fixed;
   top: 0;
   right: 0;
-  padding: em(22) 0;
+  padding: em(12) 0;
   visibility: hidden;
   backface-visibility: hidden;
   text-align: left;
@@ -94,9 +94,9 @@
     }
     span {
       display: block;
-      @include font-size(32,no,1);
+      @include font-size(22,no,1);
       @include media($small) {
-        @include font-size(48,no,1);
+        @include font-size(38,no,1);
       }
       font-family: $base-font;
       text-transform: uppercase;
@@ -151,7 +151,7 @@
       font-weight: 700;
       @include media($small) {
         margin-left: 170px;
-        @include font-size(32,no);
+        @include font-size(22,no);
       }
     }
     .excerpt {
@@ -170,7 +170,7 @@
     font-style: italic;
   }
   .menu-item .home a {
-    @include font-size(32);
+    @include font-size(22);
   }
 }
 
