@@ -1,13 +1,10 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
   
 - title: Azure
   url: /azure/
   excerpt: "Articles about microsoft cloud"
+  image: 200x300.gif
  
 
 - title: About
