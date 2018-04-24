@@ -1,9 +1,4 @@
 # Site navigation links
-- title: About
-  url: /about/
-  excerpt: "Where to find my nudes"
-  
-
 - title: Azure
   url: /azure/
   excerpt: "Articles about microsoft cloud"
