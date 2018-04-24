@@ -5,10 +5,10 @@
   excerpt:
   image:
   
-  - title: Azure
+- title: Azure
   url: /azure/
   excerpt: "Articles about microsoft cloud"
-  image: 300x200.gif
+ 
 
 - title: About
   url: /about/
