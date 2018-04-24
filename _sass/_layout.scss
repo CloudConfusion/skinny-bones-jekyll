@@ -183,7 +183,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: lighten($black,20);
+					color: lighten($black,10);
 				}
 			}
 		}
@@ -342,9 +342,9 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: lighten($black,30);
+		color: lighten($black,10);
 		a {
-			color: lighten($black,30);
+			color: lighten($black,10);
 			text-decoration: none;
 		}
 	}
