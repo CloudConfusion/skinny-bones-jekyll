@@ -117,7 +117,7 @@
 	@include clearfix;
 	font-weight: 700;
 	a {
-		color: lighten($black,20);
+		color: lighten($black,10);
 	}
 }
 
@@ -183,7 +183,7 @@
 				p{
 					@include font-size(14,no);
 					font-family: $alt-font;
-					color: lighten($black,10);
+					color: lighten($black,5);
 				}
 			}
 		}
@@ -342,9 +342,9 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
-		color: lighten($black,10);
+		color: lighten($black,5);
 		a {
-			color: lighten($black,10);
+			color: lighten($black,5);
 			text-decoration: none;
 		}
 	}
