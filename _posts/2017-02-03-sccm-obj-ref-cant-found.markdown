@@ -10,8 +10,6 @@ tags:
 - system-center-config-manager
 ---
 
-
-
 ## System Center Config Manager Task Sequences (SCCM).
 
 ##### Version: 1610
@@ -30,11 +28,14 @@ So I googled, much as you are doing now o humble seeker of knowledge.
 
 It turned out to be surprisingly simple.
 
-You might not know but I learnt from the great [Mick Pletcher ](http://mickitblog.blogspot.co.uk/)that you could create an application that didnÔÇÖt have any content location.
+You might not know but I learnt from the great [Mick Pletcher](http://mickitblog.blogspot.co.uk/)that you could create an application that didn't have any content location.
 
-<figure class="wp-caption alignnone" id="attachment_200" style="width: 300px">![SCCM Application Deployment Type](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/image-7-e1486128868260-300x66.png?resize=300%2C66)<figcaption class="wp-caption-text">This bit. SCCM Application Deployment Type</figcaption></figure>Like so.This means you don't actually pull anything down to the local machine to install. It's handy for v fat apps.  
+![SCCM Application Deployment Type](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/image-7-e1486128868260-300x66.png?resize=300%2C66)
+This bit. SCCM Application Deployment Type
+
+Like so.This means you don't actually pull anything down to the local machine to install. It's handy for v fat apps.  
  That being said, it causes the above error in task sequences.  
- So all I did was make the content location a folder with a┬á small text file, just so it had something and boom. Task Sequence in SCCM was all fine.
+ So all I did was make the content location a folder with a small text file, just so it had something and boom. Task Sequence in SCCM was all fine.
 
 
 
