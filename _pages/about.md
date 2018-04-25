@@ -4,7 +4,7 @@ permalink: /about/
 title: "About me"
 ---
 
-![Me ](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg?resize=202%2C300)
+![Me]({{ "https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg?resize=202%2C300" | absolute_url }})
 
 # I'm kind of a big deal
 
