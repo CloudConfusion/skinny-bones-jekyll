@@ -4,7 +4,9 @@ permalink: /about/
 title: "About me"
 ---
 
-<figure class="wp-caption alignleft" id="attachment_71" style="width: 202px">![Me ](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg?resize=202%2C300)<figcaption class="wp-caption-text"> # I'm kind of a big deal </figcaption></figure><div class="row"><div class="col-md-4 col-margin-bottom col-xs-12 col-sm-12">
+![Me ](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg?resize=202%2C300)
+
+# I'm kind of a big deal
 
 
 ##### Diary of a Loud Mouthed Braggart from The Future
