@@ -20,7 +20,7 @@ I had a sequence much like the below (apologies this is not my actual screen sho
 
 The objects referenced in the task sequence cannot be found. Verify that the objects exists and that the task sequence references the correct object name and location.
 
-![The objects referenced in the task sequence cannot be found. Verify that the objects exists and that the task sequence references the correct object name and location.]({{https://social.microsoft.com/Forums/getfile/3306/ | absolute_url}})
+![The objects referenced in the task sequence cannot be found. Verify that the objects exists and that the task sequence references the correct object name and location.](https://social.microsoft.com/Forums/getfile/3306/)
 What you mean can't be found. I added it from a list you nugget!
 
 So I googled, much as you are doing now o humble seeker of knowledge.  
