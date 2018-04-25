@@ -5,3 +5,6 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
+
+[config]
+command = deploy.cmd
