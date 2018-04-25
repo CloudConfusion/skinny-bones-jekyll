@@ -3,6 +3,8 @@ layout: article
 title: SCCM Solved -Task Sequence Error - objects referenced in the task sequence
   cannot be found
 date: '2017-02-03 13:42:29'
+image: "https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg"
+
 tags:
 - sccm
 - solved
@@ -29,7 +31,7 @@ So I googled, much as you are doing now o humble seeker of knowledge.
 
 It turned out to be surprisingly simple.
 
-You might not know but I learnt from the great [Mick Pletcher](http://mickitblog.blogspot.co.uk/)that you could create an application that didn't have any content location.
+You might not know but I learnt from the great [Mick Pletcher ](http://mickitblog.blogspot.co.uk/)that you could create an application that didn't have any content location.
 
 ![SCCM Application Deployment Type](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/image-7-e1486128868260-300x66.png?resize=300%2C66)
 This bit. SCCM Application Deployment Type
