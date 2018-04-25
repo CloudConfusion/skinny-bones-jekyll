@@ -19,9 +19,9 @@ tags:
 ### Okay that was click bait. Vlookup is merely bad.
 
 Ohhh the controversy. Intermediate Excel Lesson time.  
- IÔÇÖve tried putting plenty of pictures to explain but tbh itÔÇÖs so much easier just to download the sheet and play along. So click [here](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/vlookupsucks-1.xlsx) and do that.
+ I've tried putting plenty of pictures to explain but tbh itÔÇÖs so much easier just to download the sheet and play along. So click [here](https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/vlookupsucks-1.xlsx) and do that.
 
-> IÔÇÖve used Vlookup for years , in a million spreadsheets.  
+> I've used Vlookup for years , in a million spreadsheets.  
 >  A million? Literally a million ?  
 >  Yes.  
 >  You are ridiculous and I refuse to engage with you further.
