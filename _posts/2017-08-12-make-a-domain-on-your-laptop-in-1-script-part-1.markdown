@@ -13,13 +13,13 @@ tags:
 
 ## Wot are you on about ?
 
-If youÔÇÖre trying a lot of random stuff , you probably end up spinning up a lot of evaluation domains. 6 months is quite a long time but even so, remaking the whole thing is a total pain in the hoop.
+If you‘re trying a lot of random stuff , you probably end up spinning up a lot of evaluation domains. 6 months is quite a long time but even so, remaking the whole thing is a total pain in the hoop.
 
-Sure you can use Azure, and should for some of it. But what if youÔÇÖre going on a train journey or want to try new Server 2016 junk, Am I meant to install this stuff myself? using my hands and my eyes and my face ?. Yep. ┬áOR you can use this script IÔÇÖve been working on. It only does the initial bit at the moment though
+Sure you can use Azure, and should for some of it. But what if you‘re going on a train journey or want to try new Server 2016 junk, Am I meant to install this stuff myself? using my hands and my eyes and my face ?. Yep. ┬áOR you can use this script I‘ve been working on. It only does the initial bit at the moment though
 
-> **Egg Shen**: See? That was nothing. But thatÔÇÖs how it always begins. Very small.
+> **Egg Shen**: See? That was nothing. But that‘s how it always begins. Very small.
 
-Now. Some caveats, ItÔÇÖs not super optimised and itÔÇÖs a bit beta but itÔÇÖs not too shabby either.
+Now. Some caveats, It‘s not super optimised and it‘s a bit beta but it‘s not too shabby either.
 
 
 ## SHOW ME WHAT YOU GOT!
@@ -35,7 +35,7 @@ What this will do for you is
 7. All you need to do is manually select your install TYPE (gui/no gui) , rest should complete auto.
 
 
-## ThatÔÇÖs pretty cool, youÔÇÖre v handsome.
+## That‘s pretty cool, you‘re v handsome.
 
 Thanks ! ┬áHelp me test it ? make it better?
 
@@ -49,8 +49,8 @@ Evaluation Iso
  Hyper-V feature installed on.  
  Download and install┬á7Zip
 
-YouÔÇÖll need to scroll through the script and edit some file paths / usernames /passwords but tbh you should be scrolling through scripts some random maniac has posted on a website before you run them on your PC.  
- Cmon, youÔÇÖre not an Apple user.  
+You‘ll need to scroll through the script and edit some file paths / usernames /passwords but tbh you should be scrolling through scripts some random maniac has posted on a website before you run them on your PC.  
+ Cmon, you‘re not an Apple user.  
  Or maybe you areÔÇª. #PowershellCore.
 
 You can get the script you need ┬á(Createfirstdconshot) from┬á[https://github.com/gabrielmccoll/TestLab](https://github.com/gabrielmccoll/TestLab)
