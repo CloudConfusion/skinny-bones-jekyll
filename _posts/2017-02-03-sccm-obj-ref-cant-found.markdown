@@ -3,7 +3,7 @@ layout: article
 title: SCCM Solved -Task Sequence Error - objects referenced in the task sequence
   cannot be found
 date: '2017-02-03 13:42:29'
-image: "https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg"
+image: https://cloudconfusionsa.blob.core.windows.net/blogimages/2017/55c1d277a4c9c39cea9ec16f0be623ee.jpeg
 
 tags:
 - sccm
